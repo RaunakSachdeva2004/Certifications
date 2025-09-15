@@ -14,7 +14,7 @@ A curated collection of my professional certifications, awards, and completed co
 
 ## 🔄 Ongoing Learning
 
-I am consistently working on new certifications and courses. The main areas of focus for 2024 are:
+I am consistently working on new certifications and courses. The main areas of focus for 2025 are:
 -   Cloud Architecture (AWS/Azure)
 -   Large Language Models (LLMs) and Generative AI
 -   Advanced Data Engineering
